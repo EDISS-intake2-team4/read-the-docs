@@ -7,5 +7,5 @@ name = "lumache"
 authors = [{name = "Graziella", email = "graziella@lumache"}]
 dynamic = ["version", "description"]
 dependencies = [
-    "myst-parser"
+    "myst-parser==1.0.0",
 ]
