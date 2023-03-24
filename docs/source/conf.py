@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Pro-T-Omics'
+copyright = '2023, Team 4 - EDISS Intake 2'
+author = 'Team 4'
 
 release = '0.1'
 version = '0.1.0'

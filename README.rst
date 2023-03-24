@@ -1,9 +1,9 @@
-Template for the Read the Docs tutorial
+Welcome to Pro-T-Omics documentation!
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Pro-T-Omics is a professional tool for omics data analysis.
 
-Read the tutorial here:
+Access our documentation on Read the Docs:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://pro-t-omics.readthedocs.io/en/latest/index.html
+
