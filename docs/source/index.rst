@@ -15,5 +15,6 @@ Contents
    loading
    eda
    preprocessing
+   rots
    features
    classifiers
