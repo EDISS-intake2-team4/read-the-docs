@@ -17,4 +17,5 @@ Contents
    preprocessing
    rots
    features
+   augmentation
    classifiers
