@@ -5,7 +5,11 @@ The data can be preprocessed using the following methods:
 - **Log2 transformation**: transform the data using the log2 function
 - **Imputation**: impute missing values using the 
 - - Mean, Median, or Mode
-- - Zero
+- - Constant Value Imputation
 - - Minimum Value Imputation
-- - Auto Imputation
 - - Iterative Imputation
+- - Mice Forest Imputations
+- **Scaling**: scale the data using the
+- - Standard Scaler
+
+On the same page it is possible to preview or download the preprocessed data as a CSV file.
