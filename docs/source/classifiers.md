@@ -8,6 +8,8 @@ The user can train a machine learning model on the data. The input for the ML mo
 1. The data that has been processed with the tool during current session.
 2. Upload a csv file with the data. The file should contain the same features as the training data.
 3. A sample data with used for testing the tool.
+4. A new testing set
+5. A new training set
 
 ### Train-test split
 The data is split into training and testing sets. The user can specify the size of the training set by moving the slider. The default value is 0.8 (80% of the data is used for training).
@@ -36,6 +38,8 @@ The user can select the classifiers to train the model on. The following classif
 Once the classifiers are selected the models are trained and results reports for each classifier is ourputted. The combined ROC curves for all the selected models is available as well. 
 
 ### Saving the model
+(This feature is not available in the online app. Please use the local version of the app to use this feature).
+
 The models can be saved internally. For that the user needs to select yes in the select box "Would you like to save this model?" in the training results box. Creating a new Experiment or using an existing one and giving a name to the specific run is needed to save the model properly.
 
 ## Inference
